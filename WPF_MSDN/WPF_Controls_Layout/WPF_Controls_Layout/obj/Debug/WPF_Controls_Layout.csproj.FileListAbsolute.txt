@@ -1,0 +1,16 @@
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.csprojAssemblyReference.cache
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\MainWindow.g.cs
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout_MarkupCompile.cache
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout_MarkupCompile.lref
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\bin\Debug\WPF_Controls_Layout.exe.config
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\bin\Debug\WPF_Controls_Layout.exe
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\bin\Debug\WPF_Controls_Layout.pdb
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\App.g.cs
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\MainWindow.baml
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.g.resources
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.Properties.Resources.resources
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.csproj.GenerateResource.cache
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.csproj.CoreCompileInputs.cache
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.exe
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\WPF_Controls_Layout.pdb
+C:\Users\N-\WPF\WPF_MSDN\WPF_Controls_Layout\WPF_Controls_Layout\obj\Debug\App.baml

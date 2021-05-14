@@ -1,0 +1,7 @@
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\WPF_DataBinding_Demo.csprojAssemblyReference.cache
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\AddProductWindow.g.cs
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\MainWindow.g.cs
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\App.g.cs
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\WPF_DataBinding_Demo_MarkupCompile.cache
+C:\Users\N-\WPF\WPF_MSDN\WPF_DataBinding_Demo\WPF_DataBinding_Demo\obj\Debug\WPF_DataBinding_Demo_MarkupCompile.lref
