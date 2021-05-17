@@ -1,0 +1,15 @@
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\bin\Debug\WPF_MVVM_Controls.exe.config
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\bin\Debug\WPF_MVVM_Controls.exe
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\bin\Debug\WPF_MVVM_Controls.pdb
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.csprojAssemblyReference.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\MainWindow.g.cs
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\App.g.cs
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls_MarkupCompile.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls_MarkupCompile.lref
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\MainWindow.baml
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.g.resources
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.Properties.Resources.resources
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.csproj.GenerateResource.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.csproj.CoreCompileInputs.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.exe
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_Controls\WPF_MVVM_Controls\obj\Debug\WPF_MVVM_Controls.pdb

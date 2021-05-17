@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_MVVM_example_3._7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_MVVM_example_3._7"
+        mc:Ignorable="d"
+        Title="Example 3.7" Height="450" Width="800">
+    <Grid>
+        
+        <!-- WPF에서 Page 이동할 때 사용할 수 있는 Control
+             아래의 경우 Program이 시작할 때 MainWindow.xaml이 
+             가장 먼저 실행되는 데 여기에 Frame을 사용하여 
+             Main Window가 띄워지면서 가장 먼저 보여줄 페이지를 설정-->
+        <Frame Source="/Contact.xaml"/>
+        
+    </Grid>
+</Window>

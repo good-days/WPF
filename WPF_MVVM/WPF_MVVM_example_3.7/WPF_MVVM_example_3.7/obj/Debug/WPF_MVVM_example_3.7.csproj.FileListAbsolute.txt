@@ -1,0 +1,17 @@
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\bin\Debug\WPF_MVVM_example_3.7.exe.config
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\bin\Debug\WPF_MVVM_example_3.7.exe
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\bin\Debug\WPF_MVVM_example_3.7.pdb
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7.csprojAssemblyReference.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\Contact.g.cs
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\MainWindow.g.cs
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\App.g.cs
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7_MarkupCompile.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7_MarkupCompile.lref
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\Contact.baml
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\MainWindow.baml
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7.g.resources
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3._7.Properties.Resources.resources
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7.csproj.GenerateResource.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7.csproj.CoreCompileInputs.cache
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7.exe
+C:\Users\N-\WPF\WPF_MVVM\WPF_MVVM_example_3.7\WPF_MVVM_example_3.7\obj\Debug\WPF_MVVM_example_3.7.pdb
