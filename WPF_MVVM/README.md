@@ -10,3 +10,8 @@
 - WPF_MVVM_Layout
 - WPF_MVVM_exmaple_3.15
 
+### Chapter 4
+
+- WPF_MVVM_Binding
+- WPF_MVVM_example_4.6
+- WPF_MVVM_example_4.10
