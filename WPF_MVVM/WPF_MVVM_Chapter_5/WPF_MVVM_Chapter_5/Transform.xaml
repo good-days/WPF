@@ -1,0 +1,51 @@
+﻿<Page x:Class="WPF_MVVM_Chapter_5.Transform"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_MVVM_Chapter_5"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="Transform">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="First element" Margin="5"/>
+            <TextBlock Text="Second element" Margin="5"/>
+            <GroupBox Header="Third element" Margin="5" RenderTransformOrigin="0.5,0.5">
+                <!--  Render Transform 적용 : Control의 크기가 변형되지 않음 -->
+                <GroupBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="15"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </GroupBox.RenderTransform>
+                <TextBlock Text="Using some content is funnier"/>
+            </GroupBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="First element" Margin="5"/>
+            <TextBlock Text="Second element" Margin="5"/>
+            <GroupBox Header="Third element" Margin="5">
+                <!-- Layout Transform 적용 : Control의 크기가 변형됨 -->
+                <GroupBox.LayoutTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="15"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </GroupBox.LayoutTransform>
+                <TextBlock Text="Using some content is funnier"/>
+            </GroupBox>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,28 @@
+﻿<Page x:Class="WPF_MVVM_Chapter_5.Template"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_MVVM_Chapter_5"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="Template">
+
+    <Grid>
+        <Button Content="Press me" Background="GreenYellow">
+            <!-- Button Template 생성 -->
+            <!-- Control의 새로운 디자인을 제공할 때 사용 -->
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <!-- TemplateBindig 적용 => Target Control의 속성을 가져와서 바인딩 -->
+                        <Ellipse Fill="{TemplateBinding Background}"
+                                 Width="100" Height="100"/>
+                        <Label Content="{TemplateBinding Content}"
+                               HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>               
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Page>

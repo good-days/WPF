@@ -1,0 +1,41 @@
+﻿<Page x:Class="WPF_MVVM_Chapter_5.Style"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_MVVM_Chapter_5"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="Style">
+
+    <Page.Resources>
+        <!-- 암시적 스타일 정의 -->
+        <!-- 명시적으로 Key를 정해놓은 Style을 적용하는 Control을 제외하고 
+             나머지 Target Control은 암시적 Control 적용-->
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="50"/>
+            <Setter Property="Height" Value="50"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush>
+                        <GradientStop Color="Navy"/>
+                        <GradientStop Color="Cyan" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    
+    <StackPanel>
+        <!-- A,C,D Button은 App.xaml에서 정의한 niceButton Style 적용-->
+        <Button Style="{StaticResource niceButton}" Content="A"/>
+        <Button Content="B"/>
+        <Button Style="{StaticResource niceButton}" Content="C"/>
+        <Button Style="{StaticResource niceButton}" Content="D"/>
+        <Button Content="E"/>
+        <Button Content="F"/>
+        <!-- B,E,F Button은 암시적 스타일 적용 -->
+    </StackPanel>
+    
+    
+</Page>

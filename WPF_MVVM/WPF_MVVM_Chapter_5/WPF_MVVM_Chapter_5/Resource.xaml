@@ -1,0 +1,20 @@
+﻿<Page x:Class="WPF_MVVM_Chapter_5.Resource"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_MVVM_Chapter_5"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="Resource">
+    <!-- Resource Dictionary 적용 -->
+    <Page.Resources>
+        <ResourceDictionary Source="Brushes.xaml"/>
+    </Page.Resources>
+    <Grid>
+        <!-- Content에는 App.xaml에 정의한 Resource 적용-->
+        <Label Content="{StaticResource button}"
+               Background="{StaticResource accentBrush}"/>
+        <!-- Background에는 Brushes.xaml에 정의한 Resource 적용-->
+    </Grid>
+</Page>
