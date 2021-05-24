@@ -1,0 +1,40 @@
+﻿<Page x:Class="WPF_MVVM_Chapter6_practice.CurrencyConverter1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_MVVM_Chapter6_practice"
+      mc:Ignorable="d" 
+      d:DesignHeight="200" d:DesignWidth="400"
+      Title="CurrencyConverter1"
+      xmlns:vm="clr-namespace:WPF_MVVM_Chapter6_practice"
+      d:DataContext="{d:DesignInstance vm:CurrencyConverterViewModel1}">
+    <!-- View에 Binding 할 DataContext로 ViewModel을 부름 -->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Amount in €"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontSize="16"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="20,0" VerticalAlignment="Center"
+                 FontSize="18" Text="{Binding Euros, UpdateSourceTrigger=PropertyChanged}"/>
+        <!-- ViewModel의 데이터를 Binding -->
+        <!-- UpdateSourceTrigger속성을 주면 Text가 변함과 동시에 
+             업데이트가 되지만 안 줄 경우 Focus가 해당 Control에서 
+             다른 Control로 변해야 업데이트가 된다. -->
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Amount in US $"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontSize="16"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Dollars}"
+                   HorizontalAlignment="Left" VerticalAlignment="Center"
+                   Margin="20,0"  FontSize="16"/>
+    </Grid>
+</Page>
